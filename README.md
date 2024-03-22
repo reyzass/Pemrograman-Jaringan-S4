@@ -1,2 +1,2 @@
 # Pemrograman-Jaringan
-Analisa dari kedua code ada di pdf
+Bial code tidak mempunya penjelasan, cek file pdf
