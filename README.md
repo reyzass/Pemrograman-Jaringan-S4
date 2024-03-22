@@ -1,1 +1,2 @@
-# Pemrograman-Jaringan-S4
+# Pemrograman-Jaringan
+Analisa dari kedua code ada di pdf
